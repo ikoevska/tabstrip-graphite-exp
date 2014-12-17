@@ -1,0 +1,37 @@
+{
+  "ProjectName": "tabstrip-graphite-exp",
+  "ProjectGuid": "d782af8e-e1d2-49c5-9292-91a1433ea9b7",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.tabstripgraphiteexp",
+  "DisplayName": "tabstrip-graphite-exp",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{f2cfd89e-9664-4332-bd89-01119896ad5a}",
+  "WP8ProductID": "{8aba3c19-b9ce-40ad-b816-5de075788b85}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
